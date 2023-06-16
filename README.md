@@ -1,2 +1,3 @@
 # YOLOv8-finetuning
-Finetuning utilities and notebooks
+Includes a variety of scripts used for processing the HGV dataset, 
+and a notebook containing the YOLO colab training script
